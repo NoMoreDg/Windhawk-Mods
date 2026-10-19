@@ -1,5 +1,7 @@
 # Dodi's Customizations
 
+[Changelog](CHANGELOG.md)
+
 A Windows customization mod by [NoMoreDg](https://github.com/NoMoreDg), built for [Windhawk](https://windhawk.net/).
 
 **Current source version: 1.21.1 — work in progress.**
